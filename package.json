@@ -1,0 +1,20 @@
+{
+  "name": "day-14",
+  "version": "1.0.0",
+  "description": "watch's brand",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "pandjibayusatria",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}

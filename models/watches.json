@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "merk": "Alexandre Christie",
+    "price": 500000
+  },
+  {
+    "id": 2,
+    "merk": "Rolex",
+    "price": 450000
+  },
+  {
+    "id": 3,
+    "merk": "Swiss Army",
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "merk": "Eiger",
+    "price": 250000
+  },
+  {
+    "id": 5,
+    "merk": "SKMEI",
+    "price": 200000
+  },
+  {
+    "id": 6,
+    "merk": "Casio",
+    "price": 300000
+  },
+  {
+    "id": 7,
+    "merk": "Expedition",
+    "price": 200000
+  },
+  {
+    "id": 8,
+    "merk": "Fossil",
+    "price": 450000
+  }
+]
